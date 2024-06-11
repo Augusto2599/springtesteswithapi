@@ -1,6 +1,5 @@
 package com.augustojph.springtesteapi.domain;
 
-
 import java.util.List;
 import java.util.Optional;
 
